@@ -6,7 +6,7 @@
 
 #ifndef STASSID
 #define STASSID "G09-AP"
-#define STAPSK  "aptx4869"
+#define STAPSK  "12345678"
 #define ESP8266I2CAddress 0x66  //-- ESP8266 I2C Address
 #endif
 
